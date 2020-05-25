@@ -1,1 +1,1 @@
-# airconnect aircast amd64
+# airconnect aircast amd64 armhf
